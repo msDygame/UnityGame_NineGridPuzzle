@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 5e9e9a8f4c5986c468807059033a0aa2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: unity4_3_2D_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 521
+        width: 237
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 574
+        width: 242
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 603
+        width: 240
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 347
+        width: 244
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 347
+        width: 235
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 338
+        width: 241
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 163
+        width: 235
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: unity4_3_2D_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 141
+        width: 252
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: toons
+  userData: 
